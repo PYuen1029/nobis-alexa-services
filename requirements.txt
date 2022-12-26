@@ -7,5 +7,5 @@ gunicorn==19.9.0
 records==0.5.2
 requests==2.19.1
 Unidecode==1.0.22
-wheel==0.31.1
+wheel==0.38.1
 cryptogrpahy<2.2
